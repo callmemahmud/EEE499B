@@ -1,3 +1,3 @@
 # EEE499B
 
-This is final year capston project based on computer vision
+#This is a capston project based on computer vision
